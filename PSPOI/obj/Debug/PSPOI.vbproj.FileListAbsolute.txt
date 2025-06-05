@@ -1,0 +1,28 @@
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\bin\Debug\PSPOI.exe.config
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\bin\Debug\PSPOI.exe
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\bin\Debug\PSPOI.pdb
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\bin\Debug\PSPOI.xml
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\bin\Debug\PackageIO.dll
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\obj\Debug\PSPOI.vbprojResolveAssemblyReference.cache
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\obj\Debug\PSPOI.Form1.resources
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\obj\Debug\PSPOI.Resources.resources
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\obj\Debug\PSPOI.vbproj.GenerateResource.Cache
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\obj\Debug\PSPOI.exe
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\obj\Debug\PSPOI.xml
+C:\Users\Thomas Di Maria\AppData\Local\Temporary Projects\PSPOI\obj\Debug\PSPOI.pdb
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Debug\PackageIO.dll
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Debug\PSPOI.vbprojResolveAssemblyReference.cache
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Debug\PSPOI.vbproj.GenerateResource.Cache
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Debug\PSPOLY.Form1.resources
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Debug\PSPOLY.Resources.resources
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Debug\PS-Poly.exe.config
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Debug\PS-Poly.exe
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Debug\PS-Poly.pdb
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Debug\PS-Poly.xml
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Debug\PS-Poly.exe
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Debug\PS-Poly.xml
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Debug\PS-Poly.pdb
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Debug\PS-Poly.exe.manifest
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Debug\PS-Poly.application
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Debug\PS-Poly.exe.manifest
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Debug\PS-Poly.application

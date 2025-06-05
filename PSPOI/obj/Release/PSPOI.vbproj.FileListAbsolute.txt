@@ -1,0 +1,11 @@
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Release\PS-Poly.exe.config
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Release\PS-Poly.exe
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Release\PS-Poly.pdb
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Release\PS-Poly.xml
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\bin\Release\PackageIO.dll
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Release\PSPoly.Form1.resources
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Release\PSPoly.Resources.resources
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Release\PSPOI.vbproj.GenerateResource.Cache
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Release\PS-Poly.exe
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Release\PS-Poly.xml
+C:\Users\Thomas Di Maria\Documents\Visual Studio 2015\Projects\PSPOI\PSPOI\obj\Release\PS-Poly.pdb
